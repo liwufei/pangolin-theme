@@ -1,1 +1,2 @@
-# pangolin theme
+# pangolin-theme
+Pangolin theme website
