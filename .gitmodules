@@ -1,0 +1,3 @@
+[submodule "themes/pangolin"]
+	path = themes/pangolin
+	url = https://github.com/hugotheme/pangolin

@@ -1,0 +1,4 @@
+baseURL = 'https://pangolin-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Pangolin theme'
+theme = 'pangolin'
